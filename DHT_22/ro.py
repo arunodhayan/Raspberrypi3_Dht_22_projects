@@ -34,4 +34,4 @@ def index():
 if __name__ == "__main__":
 	print "Start"
 	debug = True
-	app.run(host='192.168.0.106',port=2222)
+	app.run(host='Enter ip address of raspberry pi',port=2222)
